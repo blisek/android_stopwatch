@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Stopwatch</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- views.StopwatchView dimens -->
+    <string name="stopwatch_view_counter_text_default_value">00:00:00.000</string>
+    <string name="stopwatch_view_time_elapsed_template" formatted="false">&#37;02d&#58;&#37;02d&#58;&#37;02d.&#37;03d</string>
+    <string name="stopwatch_view_counter_button_start">Start</string>
+    <string name="stopwatch_view_counter_button_pause">Pause</string>
+    <string name="stopwatch_view_counter_button_reset">Reset</string>
+</resources>
